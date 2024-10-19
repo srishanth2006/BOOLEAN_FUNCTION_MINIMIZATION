@@ -60,14 +60,10 @@ endmodule
 
 
 # TRUTH TABLE
-<img width="479" alt="image" src="https://github.com/user-attachments/assets/4a4bd059-d428-4d30-a667-052f71775f9e">
-
-
-
-
+<img width="639" alt="image" src="https://github.com/user-attachments/assets/1112e448-5c42-411f-ab66-09ec3645c5a4">
    
-
-<img width="434" alt="image" src="https://github.com/user-attachments/assets/35a50fd6-f7ba-4c97-889d-41c2933fffe5">
+   
+<img width="635" alt="image" src="https://github.com/user-attachments/assets/a9c14a1c-ca01-45c7-b404-97dbe87adc85">
 
 
 **RTL**
